@@ -3,7 +3,7 @@
 This simple weather application provides real-time weather information based on the city name entered by the user. The app fetches data from the **OpenWeather API**, displaying details such as temperature, humidity, and wind speed.
 
 ## 📸 Screenshot
-<img src="https://github.com/berrakoc/Weather-App/blob/main/interface.png" width="500">
+<img src="https://github.com/berrakoc/Weather-App/blob/main/interface.png" width="300">
 
 ## 🚀 Features
 - 📍 Search for weather conditions by city name  
